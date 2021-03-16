@@ -1,5 +1,3 @@
 # Alex Farcas-Campian
 
-This is my website / online CV!
-
-Link to the website: https://forkytheeditor.github.io/
+Curious computer science student looking for opportunities to advance my software development skills and theoretical knowledge.
